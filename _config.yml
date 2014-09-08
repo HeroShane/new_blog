@@ -1,0 +1,30 @@
+markdown: rdiscount
+pygments: true
+permalink: /:year/:month/:day/:title.html
+name: "Hero & Shane"
+
+original_author: "wayne"
+author: "zky"
+atom-baseurl: "http://heroshane.com"
+disqus: "heroshane"
+
+navigations:
+  - title: 归档
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: 标签
+    class: fa fa-tags
+    href: /tags.html
+  - title: 图片
+    class: fa fa-film
+    href: #
+  - title: 友链
+    class: fa fa-link
+    href: /links.html
+  - title: 关于
+    class: fa fa-user
+    href: /about.html
+  - title: 订阅
+    class: fa fa-rss
+    href: /atom.xml
+
